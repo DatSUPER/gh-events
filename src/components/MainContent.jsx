@@ -17,4 +17,5 @@ function MainContent() {
   );
 }
 
+// added a comment here
 export default MainContent;
